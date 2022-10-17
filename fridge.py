@@ -36,6 +36,6 @@ if fridge1.cheese + cheese1 >=0:
 else: print("не хватает сырочка")
 if fridge1.yummy + yummy1 >=0 :
     fridge1.yummy = fridge.yummy + yummy1
-else: print("не хватает вкусняшек")
+else: print("не хватает вкусняшекккк")
 
 fridge1.display_info()
